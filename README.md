@@ -1,2 +1,2 @@
 # basilea-shell
-a language of its own
+Weird extremely advanced program I finished in summer 2020
