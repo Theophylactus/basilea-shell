@@ -1,0 +1,8 @@
+@agere {
+	[scriptor "Igitur Dominus pluit super
+Sodomam et Gomorrham sulphur et ignem
+a Domino de caelo et subvertit civitates has,
+et omnem circa regionem,
+universos habitatores urbium,
+et cuncta terrae virentia " true]
+}
