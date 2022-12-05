@@ -1,5 +1,5 @@
 # basilea-shell
-Weird extremely advanced program I finished in summer 2020
+Weird extremely advanced program I finished in summer 2020. Comes with its own font!
 
 I seriously don't know what this is but I LOVE IT
 
