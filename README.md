@@ -1,7 +1,6 @@
 # basilea-shell
-Weird extremely advanced program I finished in summer 2020. Comes with its own font!
-
-the difference between an amateur and a proffesional is you write your own ~~compiler~~ interpreter
+Weird extremely advanced program I finished in summer 2020. Comes with its own font! The difference between an amateur and a proffesional is you write your own ~~compiler~~ interpreter and font!
+The scriptor function was added a few months after the aforementioned completion, which rather makes it a completion of the language syntax itself
 
 I seriously don't know what this is but I LOVE IT
 
