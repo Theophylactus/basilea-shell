@@ -3,7 +3,4 @@ Weird extremely advanced program I finished in summer 2020. Comes with its own f
 The scriptor function was added a few months after the aforementioned completion, which makes it a completion of the interpreter itself rather than of the whole program I guess
 
 ![](https://raw.githubusercontent.com/Theophylactus/basilea-shell/main/text.png)
-![](https://raw.githubusercontent.com/Theophylactus/basilea-shell/main/Feed-me.jpg)
 ![](https://raw.githubusercontent.com/Theophylactus/basilea-shell/main/Leonhard_Euler.jpg)
-
-## BRING THAT MATHEMATICAL MACHINE OUT ONTO ME, THAT I MAY ENJOY IT
