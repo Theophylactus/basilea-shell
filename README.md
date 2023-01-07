@@ -4,4 +4,6 @@ The scriptor function was added a few months after the aforementioned completion
 
 ![](https://raw.githubusercontent.com/Theophylactus/basilea-shell/main/text.png)
 ![](https://raw.githubusercontent.com/Theophylactus/basilea-shell/main/Feed-me.jpg)
+![](https://raw.githubusercontent.com/Theophylactus/basilea-shell/main/Leonhard_Euler.jpg)
+
 ## BRING THAT MATHEMATICAL MACHINE OUT ONTO ME, THAT I MAY ENJOY IT
